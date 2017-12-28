@@ -1,5 +1,4 @@
 ﻿using Android.App;
-using Android.Widget;
 using Android.OS;
 
 namespace Droid
@@ -16,4 +15,3 @@ namespace Droid
         }
     }
 }
-
